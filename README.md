@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+#### I'm Edwin, a fullstack software engineer, check out my website: https://edwinry.com
+
+
 
 <!--
 **EdwinRy/EdwinRy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
